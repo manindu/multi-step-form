@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { Box, Text } from "app/components";
+import { Box } from "app/components";
 import NameForm from "./NameForm";
 import EmailForm from "./EmailForm";
 import ColorForm from "./ColorForm";
